@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Live Average Calculator</title>
+</head>
+<body>
+
+  <h1>Live Average Calculator</h1>
+  <p id="output">Calculating...</p>
+
+  <script>
+    function generateRandomArray(length = 10, max = 10) {
+      const array = [];
+      for (let i = 0; i < length; i++) {
+        array.push(Math.floor(Math.random() * max) + 1); // Random number from 1 to max
+      }
+      return array;
+    }
+
+    function findAverage(array) {
+      let sum = 0;
+      for (let i = 0; i < array.length; i++) {
+        sum += array[i];
+      }
+      return (sum / array.length).toFixed(2); // keep 2 decimal places
+    }
+
+    function updateAverage() {
+      const array = generateRandomArray(); // new array each time
+      const avg = findAverage(array);
+      document.getElementById("output").innerText = "New Array: [" + array.join(", ") + "]\nAverage is: " + avg;
+    }
+
+    // First run
+    updateAverage();
+
+    // Run every 2 seconds
+    setInterval(updateAverage, 2000);
+  </script>
+
+</body>
+</html>
