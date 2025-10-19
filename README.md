@@ -1,32 +1,31 @@
 # 🧮 Responsive Calculator App
 
-A beautiful and fully responsive calculator app created using **HTML**, **CSS** and **JavaScript**. 
-This was one of my very first web development projects, built with a focus on clean UI, 
-responsiveness and ease of use across devices.
+A fully responsive and user-friendly calculator app built using **HTML**, **CSS** and **JavaScript**.  
+One of my early web development projects, created with a focus on clean UI, responsiveness and ease of use across all devices.
 
 ---
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the calculator](https://turahrae.github.io/Responsive-Calculator-App/)
+👉 [View the Calculator](https://turahrae.github.io/Responsive-Calculator-App/)
 
 ---
 
 ## ✨ Features
 
-- ✅ Fully responsive design (mobile, tablet & desktop)
-- ✅ Clean and modern layout
-- ✅ Basic arithmetic operations (Add, Subtract, Multiply, Divide)
-- ✅ Built using vanilla HTML, CSS and JavaScript
-- ✅ Beginner-friendly code structure
+- ✅ Fully responsive design (mobile, tablet & desktop)  
+- ✅ Clean and modern layout  
+- ✅ Basic arithmetic operations (Add, Subtract, Multiply, Divide)  
+- ✅ Built using vanilla HTML, CSS, and JavaScript  
+- ✅ Beginner-friendly, well-structured code
 
 ---
 
 ## 🛠️ Built With
 
-- HTML
-- CSS
-- JavaScript
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
@@ -37,18 +36,26 @@ Responsive-Calculator-App/
 ├── index.html
 ├── style.css
 ├── script.js
+└── README.md
+```
 
-📄 License
+---
+
+## 📌 License
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-💬 Author
-Mistura Ishola (Turah Rae)
-👩🏽‍💻 Aspiring Frontend Developer
-🌍 GitHub | LinkedIn
+---
 
-💖 A Note
-This project holds a special place in my journey as a developer.
-Built as one of my first hands-on projects, it represents growth,
-learning and a whole lot of trial and error 😊
+## 👩‍💻 Author
 
+**Mistura Ishola (Turah Rae)**  
+Frontend Developer  
+🔗 [GitHub](https://github.com/TurahRae) | [LinkedIn](https://www.linkedin.com/in/mistura-ishola-8ab987140)
 
+---
+
+## 💖 Note
+
+This project holds a special place in my journey as a developer.  
+Built as one of my first hands-on projects, it reflects growth, learning and experimentation.
