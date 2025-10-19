@@ -50,8 +50,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## 👩‍💻 Author
 
 **Mistura Ishola (Turah Rae)**  
-Frontend Developer  
-🔗 [GitHub](https://github.com/TurahRae) | [LinkedIn](https://www.linkedin.com/in/mistura-ishola-8ab987140)
+🔗 [GitHub](https://github.com/TurahRae) 
 
 ---
 
