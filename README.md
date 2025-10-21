@@ -16,7 +16,7 @@ One of my early web development projects, created with a focus on clean UI, resp
 - ✅ Fully responsive design (mobile, tablet & desktop)  
 - ✅ Clean and modern layout  
 - ✅ Basic arithmetic operations (Add, Subtract, Multiply, Divide)  
-- ✅ Built using HTML, CSS, and JavaScript  
+- ✅ Built using HTML, CSS and JavaScript  
 - ✅ Beginner-friendly, well-structured code
 
 ---
