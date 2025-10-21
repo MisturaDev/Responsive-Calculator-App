@@ -41,7 +41,7 @@ Responsive-Calculator-App/
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Developer
 
 **Mistura Ishola**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
