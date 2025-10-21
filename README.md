@@ -7,7 +7,7 @@ One of my early web development projects, created with a focus on clean UI, resp
 
 ## 🌐 Live Demo
 
-👉 [View the Calculator](https://turahrae.github.io/Responsive-Calculator-App/)
+👉 [View the Calculator](https://misturadev.github.io/Responsive-Calculator-App/)
 
 ---
 
@@ -50,7 +50,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## 👩‍💻 Author
 
 **Mistura Ishola (Turah Rae)**  
-🔗 [GitHub](https://github.com/TurahRae) 
+🔗 [LinkedIn](www.linkedin.com/in/mistura-ishola) 
 
 ---
 
