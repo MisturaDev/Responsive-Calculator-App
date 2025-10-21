@@ -49,7 +49,7 @@ Responsive-Calculator-App/
 
 ---
 
-## 💖 Note
+## Note
 
 This project holds a special place in my journey as a developer.  
 Built as one of my first hands-on projects, it reflects growth, learning and experimentation.
