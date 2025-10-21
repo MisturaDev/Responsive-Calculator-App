@@ -49,8 +49,9 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ## 👩‍💻 Author
 
-**Mistura Ishola (Turah Rae)**  
-🔗 [LinkedIn](www.linkedin.com/in/mistura-ishola/) 
+**Mistura Ishola**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
+
 
 ---
 
