@@ -1,17 +1,17 @@
-# 🧮 Responsive Calculator App
+# Responsive Calculator App
 
 A fully responsive and user-friendly calculator app built using **HTML**, **CSS** and **JavaScript**.  
 One of my early web development projects, created with a focus on clean UI, responsiveness and ease of use across all devices.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 [View the Calculator](https://misturadev.github.io/Responsive-Calculator-App/)
+ [View the Calculator](https://misturadev.github.io/Responsive-Calculator-App/)
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ Fully responsive design (mobile, tablet & desktop)  
 - ✅ Clean and modern layout  
@@ -21,7 +21,7 @@ One of my early web development projects, created with a focus on clean UI, resp
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - HTML  
 - CSS  
@@ -29,7 +29,7 @@ One of my early web development projects, created with a focus on clean UI, resp
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```bash
 Responsive-Calculator-App/
@@ -41,10 +41,10 @@ Responsive-Calculator-App/
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 **Mistura Ishola**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
+[LinkedIn](https://www.linkedin.com/in/mistura-ishola)
 
 
 ---
